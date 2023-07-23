@@ -4,7 +4,7 @@ import threading
 import socket
 import random
 
-password = int(input("Password : ")
+password = int(input("Password : "))
 pw = cumarizz
 
 if password = pw
