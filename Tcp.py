@@ -4,20 +4,36 @@ import threading
 import socket
 import random
 
-password = int(input("Password : "))
-pw = cumarizz
+userw = "kayy"
+pasw = "rizzganteng"
 
-if password = pw
-print("Correct Password")
-else 
-print("try again")
+for i in range(3):
+    print("[User]")
+    user = input("--->")
+    print("╔══[PASSWORD]")
+    pwd = input("╚════>  ")
+    j = 3
+    if (pwd == pasw,user == userw):
+        time.sleep(3)
+        print("[Welcome User]")
+        break
+    else:
+        time.sleep(2)
+        print("[WRONG Account]")
+        continue
+time.sleep(2)
+print("[Using Account Rizz]")
+time.sleep(2)
 os.system("clear")
 
 logo = """
-□□□□□□□□□
-□  RizzINV  □
-□□□□□□□□□
-"""
+_///////                         _//_///     _//_//         _//        _//    _//   _/                  _//_/ _//   _// _//       _//.
+_//    _//     _//// _//_//// _//_//_// _//  _//  _//     _//..
+_/ _//      _//     _//      _// _//_//  _// _//   _//   _//...
+_//  _//    _//   _//      _//   _//_//   _/ _//    _// _//....
+_//    _//  _//  _//      _//    _//_//    _/ //     _////.....
+_//      _//_//_////////_////////_//_//      _//      _//......
+...............................................................        """
 print(logo)
 print("TCP-FLOOD By RizzINV")
 ip = str(input("IP : "))
