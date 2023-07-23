@@ -5,7 +5,7 @@ import socket
 import random 
 
 userw = "kayy"
-pasw = "rizzganteng"
+pasw = "mydreamkay"
 
 for i in range(3):
     print("[User]")
